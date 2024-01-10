@@ -1,0 +1,16 @@
+.one{
+    background-color: greenyellow;
+}
+.two{
+    background-color: greenyellow;
+}
+.three{
+    background-color: greenyellow;
+}
+.Container{
+    display: flex;
+    gap: 10%;
+    width:auto;
+    height: 300px;
+   
+}
